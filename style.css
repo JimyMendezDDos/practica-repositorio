@@ -4,3 +4,8 @@ body{
     box-sizing: border-box;
     font-family: cursive;
 }
+
+.header{
+    display: flex;
+    flex-flow: row wrap;
+}
